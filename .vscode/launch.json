@@ -1,0 +1,13 @@
+{
+    "name": "C++ Launch",
+    "type": "cppdbg",
+    "request": "launch",
+    "program": "${workspaceFolder}/release/bin/main",
+    "environment": [
+        {
+            "name": "config",
+            "value": "Debug"
+        }
+    ],
+    "cwd": "${workspaceFolder}"
+}
