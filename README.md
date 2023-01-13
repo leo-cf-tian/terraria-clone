@@ -1,3 +1,5 @@
+**This is an ongoing project*
+
 # An Attempt at Making a Terraria Clone
 This project is an attempt to explore game development from scratch with C++ by creating a pixel based 2-dimensional sandbox game with a grid system, similar to the popular game Terraria.
 
