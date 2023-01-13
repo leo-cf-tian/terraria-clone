@@ -7,7 +7,6 @@
 
 int main(int argc, char *args[])
 {
-
     if (SDL_Init(SDL_INIT_VIDEO) > 0)
         std::cout << "STD INIT VIDEO HAS FAILED. SDL ERROR: " << SDL_GetError() << std::endl;
 
