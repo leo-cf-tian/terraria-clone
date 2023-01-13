@@ -19,7 +19,7 @@ This game is made using principles such as chunk-based rendering systems, as wel
 - [ ] Implement Procedural Map Generation
   - [x] Research how procedural terrain generation is done
     - [x] Implement Perlin Noise algorithm
-    - [ ] Fix Bugs
+    - [x] Fix Bugs
   - [ ] Research procedural cave generation
     - [ ] Perlin Worms
 - [ ] Implement Players and other entities
